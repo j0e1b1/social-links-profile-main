@@ -47,6 +47,10 @@ body{
     border-radius: 15px;
     padding: 20px;
 }
+.social-media-button:hover{
+    background-color: hsl(75, 94%, 57%);
+    cursor: pointer;
+}
 .social-media-button:last-child{
     margin-bottom: 50px;
 }
